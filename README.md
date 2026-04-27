@@ -33,7 +33,7 @@ The categories used were, in order of customer journey, Champion, Loyal, Potenti
 - The company must also prioritize their top customers, the Champion and Loyal segment customers. The company can launch programs like loyalty programs offering better discounts or giving them early access to new products. Other ideas include running surveys for potential products and accepting suggestions on changes for products. It is an absolute priority to convert loyal customers to champion customers as champion customers spend 3.7x more than loyal customers.
 
 ## Dashboard
-*To be added*
+![RFM Dashboard](images/dashboard_screenshot.png)
 
 ## Visualisations
 ![Customer Count by Segment](images/customer_count_by_segment.png)
